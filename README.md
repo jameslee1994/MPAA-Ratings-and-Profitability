@@ -1,6 +1,5 @@
 Dataset Ideas for Final Project
 
-
 1. EV Registrations by State
 I drive a Rivian R1S, and I can’t leave my house without seeing several. I am curious whether Utah has an outsized number of them. So I was hoping to find some data to show me which states have the most Rivians per capita. Also it seems lots of Utahns drive electric cars but Utah has very few Level 3 (fast) chargers, to the point I wonder where Utah ranks in ratio of L3 chargers to EVs. These two data sets show where EVs are registered, and counts of L3 chargers by state.
 Sources: [EV Registrations by State](https://www.atlasevhub.com/market-data/state-ev-registration-data/#data), [L3 Chargers by State](https://afdc.energy.gov/fuels/electricity-locations#/find/nearest?fuel=ELEC)
