@@ -15,3 +15,5 @@ Sources:  Border Crossing Entry Data
 4. Global Energy Use and Production
 I have solar panels on my house, and I don’t understand all the hate against solar, yet our national grid is undersized?  Meanwhile, I have read that China has made huge investments in solar. I found a great time-series source of global data on this and am curious to see how energy demand and production differs between countries. I’m most curious about the U.S. and China. 
 Sources:  [Per Capita Electricity Generation](https://ourworldindata.org/grapher/per-capita-electricity-generation?tab=line), [Primary Energy by Source](https://ourworldindata.org/grapher/primary-sub-energy-source?country=~USA)
+
+cloud edit
